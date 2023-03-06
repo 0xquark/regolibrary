@@ -1,0 +1,10 @@
+[
+    {
+        "alertMessage": "Cluster has none read-only access to ECR; Review AWS ECS worker node IAM role (NodeInstanceRole) IAM Policy Permissions to verify that they are set and the minimum required level.",
+        "failedPaths": [],
+        "fixPaths": [],
+        "packagename": "armo_builtins",
+        "alertScore": 7,
+        "alertObject": {}
+    }
+]
